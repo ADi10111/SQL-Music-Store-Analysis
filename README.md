@@ -1,7 +1,9 @@
-# SQL-Music-Store-Analysis
+# SQL_Project_Music_Store_Analysis
 SQL project to analyze online music store data
 
-Database and Tools using
-Postgre SQL
-PgAdmin4 and this is Schema- Music Store Database
-![image](https://github.com/user-attachments/assets/18550d10-5145-43b7-8fff-025a62adf589)
+## Database and Tools
+* Postgre SQL
+* PgAdmin4
+
+Schema- Music Store Database  
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
